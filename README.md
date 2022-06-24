@@ -3,7 +3,7 @@ The `TrackDisease` repository contains data and code for detecting and tracking 
 
 ## Citation
 
-If you find the code in this respository useful for your research, please cite our paper:
+If you find the data and code in this respository useful for your research, please cite our paper:
 ```
 @inproceedings{xie2013detecting,
   title={Detecting and tracking disease outbreaks by mining social media data},
